@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### Under Construction
+
 <!--
 **Laaaaannn/Laaaaannn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![CircleCI](https://circleci.com/gh/Laaaaannn/bot-contribution/tree/main.svg?style=svg)](https://circleci.com/gh/Laaaaannn/bot-contribution/tree/main)
