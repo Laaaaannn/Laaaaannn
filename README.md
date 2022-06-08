@@ -1,6 +1,6 @@
 # Hi, I'm Allan James Magtalas (💻💖☕)
 
-A web engineer and opensource developer from the Philippines. 🇵🇭 
+A web sourcerer and opensource developer from the Philippines. 🇵🇭 
 
 ## 🛠 Technologies
 
