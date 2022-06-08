@@ -16,7 +16,5 @@ A web engineer and opensource developer from the Philippines. 🇵🇭
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-![](https://visitor-badge.glitch.me/badge?page_id=Laaaaannn)
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Laaaaannn&bg_color=000000&color=008080&line=008080&point=ffffff&area=true&hide_border=true)  
-
+![](https://visitor-badge.glitch.me/badge?page_id=Laaaaannn)
