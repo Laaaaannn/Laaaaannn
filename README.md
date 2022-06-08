@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Lan!
+# Hi, I'm Allan (Lan) (💻💖☕)
 
 ### 🛠 &nbsp;Tech Stack
 
