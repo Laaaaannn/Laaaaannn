@@ -2,6 +2,8 @@
 
 A web sourcerer and opensource developer from the Philippines. 🇵🇭 
 
+<a href="https://app.daily.dev/lhan08"><img src="https://api.daily.dev/devcards/0e7f1df7dfc94f9ab48f2f018473de71.png?r=s18" width="400" alt="LaaaaanN's Dev Card"/></a>
+
 ## 🛠 Technologies
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
