@@ -10,16 +10,7 @@ I am a Web Engineer at <a href="https://github.com/ing-bank/">@ing-bank <img src
 I recently started working on open source projects and contribute to different projects in Github.
 
 ## 🛠 Technologies
-![skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,php,wordpress,nodejs,vue,react,mysql,docker,kubernetes,md,git,figma,bash,jquery,nginx,vscode&theme=light)
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,php,wordpress,nodejs,go,vue,react,mysql,docker,kubernetes,md,git,figma,bash,jquery,nginx,vscode&theme=light)
 
 ## <img src="https://github.com/Laaaaannn/Laaaaannn/blob/main/daily-dev-icon.jpg" title="daily.dev" alt="daily.devGitHub" width="30"/> Daily.Dev Bookmarks 
 - [Cheat Sheets that always save my time during web development 🚀](https://api.daily.dev/r/Tt48_Ph97)
