@@ -24,7 +24,7 @@ I started working on open source projects and contribute to different projects 
 - [Cheat Sheets that always save my time during web development 🚀](https://api.daily.dev/r/Tt48_Ph97)
 - [14 Best Tech Documentaries For Developers](https://api.daily.dev/r/q58_stS_i)
 - [10 Best Practices for Refactoring Code](https://api.daily.dev/r/ozalG14NT)
-___
+_
 
 <a href="https://app.daily.dev/lhan08"><img src="https://github.com/Laaaaannn/Laaaaannn/blob/main/devcard.svg" width="250" alt="LaaaaanN's Dev Card"/></a>
 
