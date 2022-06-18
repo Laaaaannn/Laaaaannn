@@ -10,6 +10,7 @@ I am a Web Engineer at <a href="https://github.com/ing-bank/">@ing-bank <img src
 I recently started working on open source projects and contribute to different projects in Github.
 
 ## 🛠 Technologies
+![skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,php,wordpress,nodejs,vue,react,mysql,docker,kubernetes,md,git,figma,bash,jquery,nginx,vscode&theme=light)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
