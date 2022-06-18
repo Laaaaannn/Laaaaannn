@@ -7,9 +7,10 @@
 
 I am a Web Engineer at <a href="https://github.com/ing-bank/">@ing-bank <img src="https://avatars.githubusercontent.com/u/13854005?s=200&v=4" width="20"/></a> 
 
-I'm starting to work on open source projects and contribute to different project in Github.
+I started working on open source projects and contribute to different projects in Github.
 
 ## 🛠 Technologies
+<img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" title="Twitter" alt="Twitter Account" width="40"/>
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
