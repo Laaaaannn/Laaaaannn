@@ -10,11 +10,11 @@ I am a Web Engineer at <a href="https://github.com/ing-bank/">@ing-bank <img src
 I started working on open source projects and contribute to different projects in Github.
 
 ## 🛠 Technologies
-<img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" title="Twitter" alt="Twitter Account" width="40"/>
+<img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" title="HTML 5" alt="HTML 5" width="80"/>
+<img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" title="Twitter" alt="Twitter Account" width="80"/>
+<img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C" title="Twitter" alt="Twitter Account" width="80"/>
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
