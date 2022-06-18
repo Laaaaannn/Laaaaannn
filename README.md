@@ -1,6 +1,6 @@
-# Hi, I'm Allan James Magtalas (💻💖☕)
+# Hi, I'm Allan James (💻💖☕)
 
-A web sourcerer and opensource developer from the Philippines. 🇵🇭 
+I am a Web Engineer in ![@ing-bank](https://github.com/ing-bank)
 
 <a href="https://app.daily.dev/lhan08"><img src="https://github.com/Laaaaannn/Laaaaannn/blob/main/devcard.svg" width="250" align="right" alt="LaaaaanN's Dev Card"/></a>
 
