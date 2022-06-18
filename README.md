@@ -25,8 +25,7 @@ I am a Web Engineer at <a href="https://github.com/ing-bank/">@ing-bank <img src
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-## Daily Dev Stats
-<a href="https://app.daily.dev/lhan08"><img src="https://github.com/Laaaaannn/Laaaaannn/blob/main/devcard.svg" width="250" align="right" alt="LaaaaanN's Dev Card"/></a>
+<a href="https://app.daily.dev/lhan08"><img src="https://github.com/Laaaaannn/Laaaaannn/blob/main/devcard.svg" width="250" alt="LaaaaanN's Dev Card"/></a>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Laaaaannn&bg_color=000000&color=008080&line=008080&point=ffffff&area=true&hide_border=true)  
 ![](https://visitor-badge.glitch.me/badge?page_id=Laaaaannn)
