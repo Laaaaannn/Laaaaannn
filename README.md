@@ -7,7 +7,7 @@
 
 I am a Web Engineer at <a href="https://github.com/ing-bank/">@ing-bank <img src="https://avatars.githubusercontent.com/u/13854005?s=200&v=4" width="20"/></a> 
 
-I started working on open source projects and contribute to different projects in Github.
+I recently started working on open source projects and contribute to different projects in Github.
 
 ## 🛠 Technologies
 
