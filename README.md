@@ -21,7 +21,7 @@ I started working on open source projects and contribute to different projects 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ## Favorite Articles 
-![Cheat Sheets that always save my time during web development 🚀](https://dev.to/ali6nx404/cheat-sheets-that-always-save-my-time-during-web-development-2ga4)
+[Cheat Sheets that always save my time during web development 🚀](https://dev.to/ali6nx404/cheat-sheets-that-always-save-my-time-during-web-development-2ga4)
 ___
 
 <a href="https://app.daily.dev/lhan08"><img src="https://github.com/Laaaaannn/Laaaaannn/blob/main/devcard.svg" width="250" alt="LaaaaanN's Dev Card"/></a>
