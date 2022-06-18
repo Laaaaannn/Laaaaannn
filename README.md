@@ -1,6 +1,6 @@
 # Hi, I'm Allan James (💻💖☕)
 
-I am a Web Engineer in ![@ing-bank](https://github.com/ing-bank)
+I am a Web Engineer in ![@ing-bank](https://avatars.githubusercontent.com/u/13854005?s=200&v=4)
 
 <a href="https://app.daily.dev/lhan08"><img src="https://github.com/Laaaaannn/Laaaaannn/blob/main/devcard.svg" width="250" align="right" alt="LaaaaanN's Dev Card"/></a>
 
