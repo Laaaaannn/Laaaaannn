@@ -11,8 +11,8 @@ I started working on open source projects and contribute to different projects 
 
 ## 🛠 Technologies
 <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" title="HTML 5" alt="HTML 5" width="80"/>
-<img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" title="Twitter" alt="Twitter Account" width="80"/>
-<img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C" title="Twitter" alt="Twitter Account" width="80"/>
+&ensp;<img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" title="Twitter" alt="Twitter Account" width="80"/>
+&ensp;<img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C" title="Bootstrap" alt="Bootstrap" width="80"/>
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
