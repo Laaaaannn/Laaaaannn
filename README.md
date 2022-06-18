@@ -10,7 +10,7 @@ I am a Web Engineer at <a href="https://github.com/ing-bank/">@ing-bank <img src
 I recently started working on open source projects and contribute to different projects in Github.
 
 ## 🛠 Technologies
-![skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,php,wordpress,nodejs,go,vue,react,mysql,docker,kubernetes,md,git,figma,bash,jquery,nginx,vscode&theme=light)
+![skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,php,wordpress,nodejs,go,vue,react,lit,mysql,docker,kubernetes,md,git,figma,bash,jquery,nginx,vscode&theme=light)
 
 ## <img src="https://github.com/Laaaaannn/Laaaaannn/blob/main/daily-dev-icon.jpg" title="daily.dev" alt="daily.devGitHub" width="30"/> Daily.Dev Bookmarks 
 - [Cheat Sheets that always save my time during web development 🚀](https://api.daily.dev/r/Tt48_Ph97)
