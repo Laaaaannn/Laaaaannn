@@ -10,9 +10,9 @@ I am a Web Engineer at <a href="https://github.com/ing-bank/">@ing-bank <img src
 I started working on open source projects and contribute to different projects in Github.
 
 ## 🛠 Technologies
-<a><img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" title="HTML 5" alt="HTML 5" width="80"/></a>
-&ensp;<a><img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" title="Twitter" alt="Twitter Account" width="80"/></a>
-&ensp;<a><img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C" title="Bootstrap" alt="Bootstrap" width="80"/></a>
+<a><img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" title="HTML 5" alt="HTML 5" width="60"/></a>
+&ensp;<a><img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" title="CSS" alt="css" width="60"/></a>
+&ensp;<a><img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C" title="Bootstrap" alt="Bootstrap" width="60"/></a>
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
