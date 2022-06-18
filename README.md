@@ -24,9 +24,10 @@ I started working on open source projects and contribute to different projects 
 - [Cheat Sheets that always save my time during web development 🚀](https://api.daily.dev/r/Tt48_Ph97)
 - [14 Best Tech Documentaries For Developers](https://api.daily.dev/r/q58_stS_i)
 - [10 Best Practices for Refactoring Code](https://api.daily.dev/r/ozalG14NT)
-_
-
+<br/>
 <a href="https://app.daily.dev/lhan08"><img src="https://github.com/Laaaaannn/Laaaaannn/blob/main/devcard.svg" width="250" alt="LaaaaanN's Dev Card"/></a>
+
+___
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Laaaaannn&bg_color=000000&color=008080&line=008080&point=ffffff&area=true&hide_border=true)  
 ![](https://visitor-badge.glitch.me/badge?page_id=Laaaaannn)
