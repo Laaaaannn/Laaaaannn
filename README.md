@@ -13,9 +13,11 @@ I recently started working on open source projects and contribute to different 
 ![skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,php,wordpress,nodejs,go,vue,react,mysql,docker,kubernetes,md,git,figma,bash,jquery,nginx,vscode&theme=light&perline=7)
 
 ## <img src="https://github.com/Laaaaannn/Laaaaannn/blob/main/daily-dev-icon.jpg" title="daily.dev" alt="daily.devGitHub" width="20"/> Daily.Dev Bookmarks 
-- [Cheat Sheets that always save my time during web development 🚀](https://api.daily.dev/r/Tt48_Ph97)
-- [14 Best Tech Documentaries For Developers](https://api.daily.dev/r/q58_stS_i)
-- [10 Best Practices for Refactoring Code](https://api.daily.dev/r/ozalG14NT)
+<!-- daily.dev BOOKMARKS:START -->
+- [13 Best Tech Documentaries For Developers](https://app.daily.dev/posts/q58_stS_i?utm_source=rss&utm_medium=bookmarks&utm_campaign=zq82toklJG7Wa4Z82f2qy)
+- [Cheat Sheets that always save my time during web development 🚀](https://app.daily.dev/posts/Tt48_Ph97?utm_source=rss&utm_medium=bookmarks&utm_campaign=zq82toklJG7Wa4Z82f2qy)
+<!-- daily.dev BOOKMARKS:END -->
+
 <br/>
 <a href="https://app.daily.dev/lhan08"><img src="https://github.com/Laaaaannn/Laaaaannn/blob/main/devcard.svg" width="250" alt="LaaaaanN's Dev Card"/></a>
 
@@ -24,7 +26,4 @@ ___
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Laaaaannn&bg_color=000000&color=008080&line=008080&point=ffffff&area=true&hide_border=true)  
 ![](https://visitor-badge.glitch.me/badge?page_id=Laaaaannn)
 
-<!-- daily.dev BOOKMARKS:START -->
-- [13 Best Tech Documentaries For Developers](https://app.daily.dev/posts/q58_stS_i?utm_source=rss&utm_medium=bookmarks&utm_campaign=zq82toklJG7Wa4Z82f2qy)
-- [Cheat Sheets that always save my time during web development 🚀](https://app.daily.dev/posts/Tt48_Ph97?utm_source=rss&utm_medium=bookmarks&utm_campaign=zq82toklJG7Wa4Z82f2qy)
-<!-- daily.dev BOOKMARKS:END -->
+
