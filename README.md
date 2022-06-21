@@ -14,10 +14,11 @@ I recently started working on open source projects and contribute to different 
 
 ## <img src="https://github.com/Laaaaannn/Laaaaannn/blob/main/daily-dev-icon.jpg" title="daily.dev" alt="daily.devGitHub" width="20"/> Daily.Dev Bookmarks 
 <!-- daily.dev BOOKMARKS:START -->
+- [The Front-End Developer&#39;s Guide to the Terminal](https://app.daily.dev/posts/YYDeFKOH1?utm_source=rss&utm_medium=bookmarks&utm_campaign=zq82toklJG7Wa4Z82f2qy)
+- [CI/CD for Microservices on DigitalOcean Kubernetes](https://app.daily.dev/posts/ZhdkJQ0du?utm_source=rss&utm_medium=bookmarks&utm_campaign=zq82toklJG7Wa4Z82f2qy)
+- [5 Best Practices When Implementing a Container Strategy](https://app.daily.dev/posts/KoQhqw2uY?utm_source=rss&utm_medium=bookmarks&utm_campaign=zq82toklJG7Wa4Z82f2qy)
+- [TypeScript — What is it all about?](https://app.daily.dev/posts/wLMmPbPTM?utm_source=rss&utm_medium=bookmarks&utm_campaign=zq82toklJG7Wa4Z82f2qy)
 - [How to Become a Web3 Developer](https://app.daily.dev/posts/9iBzdqbnD?utm_source=rss&utm_medium=bookmarks&utm_campaign=zq82toklJG7Wa4Z82f2qy)
-- [Git best practices](https://app.daily.dev/posts/_HDbUKLsj?utm_source=rss&utm_medium=bookmarks&utm_campaign=zq82toklJG7Wa4Z82f2qy)
-- [13 Best Tech Documentaries For Developers](https://app.daily.dev/posts/q58_stS_i?utm_source=rss&utm_medium=bookmarks&utm_campaign=zq82toklJG7Wa4Z82f2qy)
-- [Cheat Sheets that always save my time during web development 🚀](https://app.daily.dev/posts/Tt48_Ph97?utm_source=rss&utm_medium=bookmarks&utm_campaign=zq82toklJG7Wa4Z82f2qy)
 <!-- daily.dev BOOKMARKS:END -->
 
 <br/>
