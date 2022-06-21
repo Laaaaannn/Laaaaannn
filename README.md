@@ -24,4 +24,7 @@ ___
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Laaaaannn&bg_color=000000&color=008080&line=008080&point=ffffff&area=true&hide_border=true)  
 ![](https://visitor-badge.glitch.me/badge?page_id=Laaaaannn)
 
-<!-- daily.dev BOOKMARKS:START --> <!-- daily.dev BOOKMARKS:END -->
+<!-- daily.dev BOOKMARKS:START -->
+- [13 Best Tech Documentaries For Developers](https://app.daily.dev/posts/q58_stS_i?utm_source=rss&utm_medium=bookmarks&utm_campaign=zq82toklJG7Wa4Z82f2qy)
+- [Cheat Sheets that always save my time during web development 🚀](https://app.daily.dev/posts/Tt48_Ph97?utm_source=rss&utm_medium=bookmarks&utm_campaign=zq82toklJG7Wa4Z82f2qy)
+<!-- daily.dev BOOKMARKS:END -->
