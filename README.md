@@ -12,6 +12,9 @@ I recently started working on open source projects and contribute to different 
 ## 🛠 Technologies
 ![skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,php,wordpress,nodejs,go,vue,react,mysql,docker,kubernetes,md,git,figma,bash,jquery,nginx,vscode&theme=light&perline=7)
 
+<!--  daily.dev BOOKMARKS:START -->
+<!--  daily.dev BOOKMARKS:END -->
+
 ## <img src="https://github.com/Laaaaannn/Laaaaannn/blob/main/daily-dev-icon.jpg" title="daily.dev" alt="daily.devGitHub" width="20"/> Daily.Dev Bookmarks 
 - [Cheat Sheets that always save my time during web development 🚀](https://api.daily.dev/r/Tt48_Ph97)
 - [14 Best Tech Documentaries For Developers](https://api.daily.dev/r/q58_stS_i)
