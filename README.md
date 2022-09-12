@@ -5,7 +5,7 @@
 &ensp;<a href="https://github.com/Laaaaannn"><img src="https://github.com/Laaaaannn/Laaaaannn/blob/main/github-icon.png" title="GitHub" alt="GitHub" width="30"/></a>
 &ensp;<a href="https://app.daily.dev/lhan08"><img src="https://github.com/Laaaaannn/Laaaaannn/blob/main/daily-dev-icon.jpg" title="daily.dev" alt="daily.devGitHub" width="30"/></a>
 
-I am a Web Engineer at <a href="https://github.com/ing-bank/">@ing-bank <img src="https://avatars.githubusercontent.com/u/13854005?s=200&v=4" width="20"/></a> 
+I am a Fullstack Engineer.
 
 I recently started working on open source projects and contribute to different projects in Github.
 
