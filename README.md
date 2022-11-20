@@ -10,7 +10,7 @@ I am a web sourcerer.
 I recently started working on open source projects and contribute to different projects in Github.
 
 ## 🛠 Technologies
-![skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,php,wordpress,nodejs,go,vue,react,lit,postgres,mysql,docker,kubernetes,md,git,figma,bash,jquery,nginx,vscode&theme=light&perline=7)
+![skills](https://skillicons.dev/icons?i=git,md,html,css,sass,js,jquery,ts,wordpress,nodejs,php,go,vue,react,lit,postgres,mysql,docker,kubernetes,figma,bash,nginx,vscode&theme=light&perline=10)
 
 ## <img src="https://github.com/Laaaaannn/Laaaaannn/blob/main/daily-dev-icon.jpg" title="daily.dev" alt="daily.devGitHub" width="20"/> Daily.Dev Bookmarks 
 <!-- daily.dev BOOKMARKS:START -->
