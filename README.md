@@ -11,6 +11,8 @@ I recently started working on open source projects and contribute to different 
 
 Loves to automate things to make life easier.
 
+When I'm not at work, or working on a personal project, I'm hanging out with mates, riding motorcycles 🏍️, playing video games, exhausting out over running 🏃 and reading about personal development.
+
 
 ## 🛠 Technologies
 ![skills](https://skillicons.dev/icons?i=git,md,html,css,sass,js,jquery,ts,wordpress,nodejs,php,go,vue,react,lit,postgres,mysql,docker,kubernetes,figma,bash,nginx,vscode&theme=light&perline=10)
