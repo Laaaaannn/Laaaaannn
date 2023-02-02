@@ -8,6 +8,8 @@
 I am a web sourcerer.
 
 I recently started working on open source projects and contribute to different projects in Github.
+Loves to automate things to make life easier.
+
 
 ## 🛠 Technologies
 ![skills](https://skillicons.dev/icons?i=git,md,html,css,sass,js,jquery,ts,wordpress,nodejs,php,go,vue,react,lit,postgres,mysql,docker,kubernetes,figma,bash,nginx,vscode&theme=light&perline=10)
