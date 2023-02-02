@@ -5,9 +5,10 @@
 &ensp;<a href="https://github.com/Laaaaannn"><img src="https://github.com/Laaaaannn/Laaaaannn/blob/main/github-icon.png" title="GitHub" alt="GitHub" width="30"/></a>
 &ensp;<a href="https://app.daily.dev/lhan08"><img src="https://github.com/Laaaaannn/Laaaaannn/blob/main/daily-dev-icon.jpg" title="daily.dev" alt="daily.devGitHub" width="30"/></a>
 
-I am a web sourcerer.
+I am a web sourcerer 🧙.
 
 I recently started working on open source projects and contribute to different projects in Github.
+
 Loves to automate things to make life easier.
 
 
