@@ -19,11 +19,11 @@ When I'm not at work, or working on a personal project, I'm hanging out with mat
 
 ## <img src="https://github.com/Laaaaannn/Laaaaannn/blob/main/daily-dev-icon.jpg" title="daily.dev" alt="daily.devGitHub" width="20"/> Daily.Dev Bookmarks 
 <!-- daily.dev BOOKMARKS:START -->
-- [JavaScript Patterns Workshop](https://app.daily.dev/posts/Q5CezwAtT?utm_source=rss&utm_medium=bookmarks&utm_campaign=zq82toklJG7Wa4Z82f2qy)
-- [Top of JS Topics mostly failed by developers](https://app.daily.dev/posts/NJJVNT4Ys?utm_source=rss&utm_medium=bookmarks&utm_campaign=zq82toklJG7Wa4Z82f2qy)
-- [The Front-End Developer&#39;s Guide to the Terminal](https://app.daily.dev/posts/YYDeFKOH1?utm_source=rss&utm_medium=bookmarks&utm_campaign=zq82toklJG7Wa4Z82f2qy)
-- [CI/CD for Microservices on DigitalOcean Kubernetes](https://app.daily.dev/posts/ZhdkJQ0du?utm_source=rss&utm_medium=bookmarks&utm_campaign=zq82toklJG7Wa4Z82f2qy)
-- [5 Best Practices When Implementing a Container Strategy](https://app.daily.dev/posts/KoQhqw2uY?utm_source=rss&utm_medium=bookmarks&utm_campaign=zq82toklJG7Wa4Z82f2qy)
+- [JavaScript Patterns Workshop](https://daily.dev/posts/Q5CezwAtT?utm_source=rss&utm_medium=bookmarks&utm_campaign=zq82toklJG7Wa4Z82f2qy)
+- [Top of JS Topics mostly failed by developers](https://daily.dev/posts/NJJVNT4Ys?utm_source=rss&utm_medium=bookmarks&utm_campaign=zq82toklJG7Wa4Z82f2qy)
+- [The Front-End Developer&#39;s Guide to the Terminal](https://daily.dev/posts/YYDeFKOH1?utm_source=rss&utm_medium=bookmarks&utm_campaign=zq82toklJG7Wa4Z82f2qy)
+- [CI/CD for Microservices on DigitalOcean Kubernetes](https://daily.dev/posts/ZhdkJQ0du?utm_source=rss&utm_medium=bookmarks&utm_campaign=zq82toklJG7Wa4Z82f2qy)
+- [5 Best Practices When Implementing a Container Strategy](https://daily.dev/posts/KoQhqw2uY?utm_source=rss&utm_medium=bookmarks&utm_campaign=zq82toklJG7Wa4Z82f2qy)
 <!-- daily.dev BOOKMARKS:END -->
 
 <br/>
